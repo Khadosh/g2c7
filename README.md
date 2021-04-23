@@ -8,6 +8,7 @@
 - [x] `git add .`: se usa agregar archivos y prepararlos para ser commiteados
 - [x] `git commit -m "mensaje simpatico"`: se usa para generar un commit (preparar archivos para subirlos)
 - [x] `git push origin HEAD`: empuja los cambios que tenemos localmente a nuestro repositorio remoto (cuenta de github)
+- [x] `git pull origin <nombre_del_branch>`: trae cambios que están en la nube, pero que no están en mi compu
 - [x] `git log`: que sirve para ver la lista de commits ordenadas por fecha, el más reciente arriba
 
 ## Comandos no tan básicos de git
