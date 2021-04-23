@@ -12,3 +12,8 @@
 
 ## Comandos no tan básicos de git
 - [x] `git commit --amend -m "nuevo mensajito"`: se usa xa modificar el mensaje de commit si lo hicimos mal previamente
+
+## Branches
+- [x] `git branch"`: nos lista los branches asociados a este repositorio
+- [x] `git branch <nombre_branch>"`: crea un nuevo branch con el nombre indicado
+- [x] `git checkout <nombre_branch>"`: me muevo de un branch al otro con el nombre indicado
